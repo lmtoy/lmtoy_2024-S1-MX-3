@@ -3,3 +3,7 @@
 #123456__1       extra bad beam     # pix_list=-4,-13,14,15
 #123456__0       standard           # pix_list=-13
 #
+117655 QAFAIL: bad chassis 3; qagrade=-2
+117899 QAFAIL: bad chassis 3; qagrade=-2
+119099 QAFAIL: only one working board 0; qagrade=-2
+113240_119436 [81/84] No clear detection; 60% completed 7/16/24
