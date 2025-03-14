@@ -26,17 +26,17 @@ on["IDF_SCUBA2_05"] = \
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1["IDF_SCUBA2_05"] = ""
+pars1["IDF_SCUBA2_05"] = "badcb=2/1"
 
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
 pars2 = {}
-pars2["IDF_SCUBA2_05"] = ""
+pars2["IDF_SCUBA2_05"] = "badcb=2/1"
 
 
 #        common parameters per source on subsequent runs (run1c, run2c), e.g. bank=1 for WARES
 pars3 = {}
-pars3["IDF_SCUBA2_05"] = ""
+pars3["IDF_SCUBA2_05"] = "badcb=2/1"
 
 
 if __name__ == '__main__':    
