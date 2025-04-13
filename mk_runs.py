@@ -35,10 +35,5 @@ pars2 = {}
 pars2["IDF_SCUBA2_05"] = ""
 
 
-#        common parameters per source on subsequent runs (run1c, run2c), e.g. bank=1 for WARES
-pars3 = {}
-pars3["IDF_SCUBA2_05"] = ""
-
-
 if __name__ == '__main__':    
-    runs.mk_runs(project, on, pars1, pars2, pars3, sys.argv)
+    runs.mk_runs(project, on, pars1, pars2, None, sys.argv)
