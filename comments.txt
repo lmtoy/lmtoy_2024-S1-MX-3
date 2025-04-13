@@ -29,12 +29,12 @@
 
 127577		remove bad cb 3/0	#badcb=3/0
 127586          remove bad cb 3/0       #badcb=3/0
-127765          remove bad cb 3/0       #badcb=3/0
+127765          QAFAIL remove bad cb 3/0       #badcb=3/0
 127767          remove bad cb 3/0       #badcb=3/0
 128465          remove bad cb 3/0       #badcb=3/0
 
 
 128060		incomplete intergration, obsnum looks fine but requested re-observation
 
-113240_128469	[107/110]
+113240_128469	[106/110]
 
